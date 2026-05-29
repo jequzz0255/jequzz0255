@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @jequzz0255
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Embedded Systems, Linux customization and Automation.
+- 🌱 I’m currently learning advanced microcontroller programming, system architecture, and CI/CD workflows.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I use Linux on a daily basis and actually enjoy configuring the environment.
 
-<!---
-jequzz0255/jequzz0255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** C/C++, Python, PHP, JavaScript, SQL (PostgreSQL), HTML/CSS
+* **OS & Environments:** Linux (Fedora/KDE Plasma & Debian), Bash/Zsh
+* **Embedded/Hardware:** ESP32, STM32, Sensors & Actuators
+* **Databases & Web:** PostgreSQL, PHP + Web frontends
